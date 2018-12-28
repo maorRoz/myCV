@@ -1,0 +1,64 @@
+{
+    "skills": [
+        {
+            "name":"Node.js",
+            "addition":"Express",
+            "level": 5
+        },
+        {
+            "name":"React/React-Native",
+            "addition":"Redux",
+            "level": 5
+        },
+        {
+            "name":"Cypress/Jest/Enzyme/Mocha",
+            "level": 5
+        },
+        {
+            "name":"HTML/CSS",
+            "level": 4
+        },
+        {
+            "name":"Vue",
+            "level": 2
+        },
+        {
+            "name":"C#",
+            "addition": ".NET",
+            "level": 5
+        },
+        {
+            "name":"Java",
+            "addition": "Spring/Maven",
+            "level": 5
+        },
+        {
+            "name":"Unity/Unreal",
+            "level": 3
+        },
+        {
+            "name":"Docker/Docker-Compose",
+            "level": 5
+        },
+        {
+            "name":"Azure/AWS",
+            "level": 5
+        },
+        {
+            "name":"Kafka/RabbitMQ",
+            "level": 5
+        },
+        {
+            "name":"Postgres/Mongo",
+            "level": 5
+        },
+        {
+            "name":"Linux",
+            "level": 5
+        },
+        {
+            "name":"JIRA/Trello/GitHub/GitLab",
+            "level": 5
+        }
+    ]
+}

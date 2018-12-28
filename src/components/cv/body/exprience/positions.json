@@ -1,0 +1,32 @@
+{
+    "positions": [
+        {
+            "name": "Capitolis",
+            "field": "Student Developer",
+            "title": "Fintech",
+            "startDate":"07.2018",
+            "endDate": "Now",
+            "description":[
+                "I was assigned first to build better-designed automation environments and tools for the firm.",
+                "I’ve brought the new <b><i>Cypress</i></b> library into the company automation tools arsenal. I was also assigned to teach and mentor",
+                "other developers on how to use it.",
+                "I was also assigned on tasks which involved developing <b><i>React-Redux</i></b> UI, <b><i>Node.js</i></b>/<b><i>Java</i></b> services, and all in <b><i>Microservices</i></b>",
+                "environment. Therefore, the position required me to work in the <b><i>frontend</i></b> and <b><i>backend</i></b> sides of the product."
+
+            ]
+        },
+        {
+            "name": "Dome9",
+            "field": "Cloud",
+            "title": "Student Software Engineer",
+            "startDate":"08.2017",
+            "endDate": "05.2018",
+            "description":[
+                "I was assigned to build better-designed automation environments and tools for the firm.",
+                "The firm’s products required me to learn and handle cloud entities in the <b><i>AWS</i></b> and <b><i>Azure</i></b> environments.",
+                "The main code language was <b><i>Node.js</i></b>. The position also required me to work closely with the <b><i>frontend</i></b> and <b><i>backend</i></b>",
+                "developers of the R&D."
+            ]
+        }
+    ]
+}

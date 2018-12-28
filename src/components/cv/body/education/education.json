@@ -1,0 +1,15 @@
+{
+    "education":[
+        {
+            "institution": "Ben-Gurion University",
+            "title": "B.Sc. Software Engineering",
+            "warning": "3 Semesters left until graduation!",
+            "description": "Currently pursuing my degree in Software Engineering. I'm in my 4<sup>th</sup> year."
+        },
+        {
+            "institution": "Ort Rabin Gan-Yavne",
+            "title": "Computer Science Major",
+            "description": "Graduated \"Ort Rabin Gan-Yavne\" high-school, With a majority in Computer-Science."
+        }
+    ]
+}
