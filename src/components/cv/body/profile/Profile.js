@@ -5,7 +5,9 @@ import { attributes } from './attributes.json';
 
 const Attribute = (props) => {
   const { name, description } = props.data;
-  const descriptionLines = description.map((line, index) => <div key={index}>{line}</div>);
+  const descriptionLines = description
+    .map((line, index) => <div dangerouslySetInnerHTML={{ __html: line }} key={index}/>);
+
   return (
     <div className='Profile-attribute'>
       <span className='Profile-attribute-name'>{name}</span>
