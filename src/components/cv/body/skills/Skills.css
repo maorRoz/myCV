@@ -1,0 +1,26 @@
+.Skill-board {
+    display: inline-block;
+    width: 34vh;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 0.5em;
+    font-family: Century Gothic;
+    font-size: 13px;
+}
+
+.Skill-item {
+    display: inline-block;
+    width: 35vh;
+}
+
+.Skill-item-stars{
+    float: right;
+}
+
+.Skill-green-star {
+    color: rgb(83,129,53);
+}
+
+.Skill-grey-star {
+    color : rgb(165,165,165);
+}

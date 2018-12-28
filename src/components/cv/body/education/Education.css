@@ -1,0 +1,12 @@
+.Education-item {
+    font-size: 14px;
+    margin-top: 1em;
+}
+
+.Education-item-title {
+    font-weight: bold;
+}
+
+.Education-item-title-warning {
+    color: red;
+}
