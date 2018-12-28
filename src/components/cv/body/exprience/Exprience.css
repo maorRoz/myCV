@@ -1,0 +1,14 @@
+.Position {
+    font-size: 14px;
+    margin-top: 1em;
+}
+
+.Position-title {
+    font-weight: bold;
+}
+
+.Position-dates {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(128,128,128);
+}
