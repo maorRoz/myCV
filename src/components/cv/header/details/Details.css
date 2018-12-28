@@ -1,0 +1,18 @@
+.Details-container {
+    margin-top: 1.5em;
+    font-size: 14.5px;
+}
+
+.Details-item {
+    font-size: 16.2px;
+    display: inline;
+    margin-right: 1em;
+}
+
+.Details-label {
+    font-weight: bold;
+}
+
+.Details-red {
+    color: red;
+}

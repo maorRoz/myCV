@@ -1,0 +1,57 @@
+{
+    "lines": [
+        {
+            "details": [
+                {
+                    "name": "Phone",
+                    "description": "050-5988322"
+                },
+                {
+                    "name": "City",
+                    "description": "Beer-Sheva"
+                },
+                {
+                    "name": "Age",
+                    "description": "26"
+                },
+                {
+                    "name": "Availability",
+                    "type": "red",
+                    "description": "3 days a week (50%-60% position)"
+                }
+            ]            
+        },
+        {
+            "details": [
+                {
+                    "name": "Email",
+                    "type": "email",
+                    "description": "andorys@gmail.com"
+                },
+                {
+                    "name": "ID",
+                    "description": "204504039"
+                },
+                {
+                    "name": "Languages",
+                    "description": "Hebrew, English"
+                }
+            ]
+        },
+        {
+            "details":[
+                {
+                    "name": "GitHub",
+                    "type": "link",
+                    "description": "github.com/maorRoz"
+                },
+                {
+                    "name": "LinkedIn",
+                    "type": "link",
+                    "description": "linkedin.com/in/maor-rozevich"
+                }
+            ]
+        }
+    ]
+
+}

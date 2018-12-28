@@ -1,0 +1,22 @@
+.Header {
+    font-family: Calibri;
+    margin-top: 1.5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2.5vmin);
+}
+
+.Header-name {
+  width: 80vh;
+  font-weight: bold;
+  background-color: rgb(197,224,179);
+}
+
+.Header-title {
+  color: rgb(83,129,53);
+  font-weight: bold;
+  font-style: italic;
+  font-size: 18.8px;
+}
