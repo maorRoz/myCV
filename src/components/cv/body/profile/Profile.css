@@ -1,0 +1,19 @@
+.Profile-attribute {
+    font-size: 14px;
+    margin-bottom: 1em;
+}
+
+.Profile-attribute-name {
+    display: inline-block;
+    vertical-align: top;
+    width: 20vh;
+    font-weight: bold;
+}
+
+.Profile-attirbute-description {
+    display: inline-block;
+}
+
+.Profile-attirbute-description-line {
+    display:block;
+}

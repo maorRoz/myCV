@@ -1,0 +1,22 @@
+{
+    "attributes": [
+        {
+            "name": "Passionate Learner",
+            "description": [
+                "Always trying to learn something new, whether it be a new tool or a new way of delivering and",
+                "maintaining the development process."
+            ]
+        },
+        {
+            "name": "Web Developer",
+            "description": [
+                "Researching and looking for the next thing in the web development world every day. Passionate",
+                "especially about JavaScript: both on server-side (like Node.js) and client-side (like React or Vue)"
+            ]
+        },
+        {
+            "name": "Dedicated Developer",
+            "description": ["Team player, autodidact, fast-learner, responsible and a very dedicated person."]
+        }
+    ]
+}

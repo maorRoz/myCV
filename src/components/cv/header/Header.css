@@ -1,5 +1,6 @@
 .Header {
     font-family: Calibri;
+    text-align: center;
     margin-top: 1.5em;
     display: flex;
     flex-direction: column;
@@ -8,13 +9,13 @@
     font-size: calc(10px + 2.5vmin);
 }
 
-.Header-name {
+.Header-title {
   width: 80vh;
   font-weight: bold;
   background-color: rgb(197,224,179);
 }
 
-.Header-title {
+.Header-main-line {
   color: rgb(83,129,53);
   font-weight: bold;
   font-style: italic;
