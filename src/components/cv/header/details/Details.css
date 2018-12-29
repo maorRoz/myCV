@@ -1,10 +1,10 @@
 .Details-container {
     margin-top: 1.5em;
-    font-size: 14.5px;
+    font-size: calc(10px + 0.6vmin);
 }
 
 .Details-item {
-    font-size: 16.2px;
+    font-size: calc(10px + 0.6vmin);
     display: inline;
     margin-right: 1em;
 }

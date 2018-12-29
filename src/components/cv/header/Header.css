@@ -10,7 +10,7 @@
 }
 
 .Header-title {
-  width: 80vh;
+  width: 90vh;
   font-weight: bold;
   background-color: rgb(197,224,179);
 }
@@ -19,7 +19,7 @@
   color: rgb(83,129,53);
   font-weight: bold;
   font-style: italic;
-  font-size: 18.8px;
+  font-size: calc(10px + 0.9vmin);
 }
 
 .Header-main-line sup{

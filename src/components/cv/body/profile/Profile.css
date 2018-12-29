@@ -1,5 +1,5 @@
 .Profile-attribute {
-    font-size: 14px;
+    font-size: calc(10px + 0.5vmin);
     margin-bottom: 1em;
 }
 
